@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Exercice 16"
-  text: "Revue de code documentée \n\nFait par le beau Émile Lafleur et Mathys Lacasse"
+  text: "Revue de code documentée \n\nFait par le beau Émile Lafleur et Mathys Lacasse "
   actions:
     - theme: brand
       text: Emile Lafleur
